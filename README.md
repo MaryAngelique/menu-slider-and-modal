@@ -4,7 +4,6 @@
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Features](#features)
   - [Demo](#project-demo)
   - [Links](#links)
 - [My process](#my-process)
@@ -23,16 +22,11 @@ Users should be able to:
 
 #### - 
 
-### Features
-
-### Project Demo
-
-[![PROJECT DEMO](https://dotcom.nlcdn.com/wp-content/uploads/2020/03/Product_Demo_Featured-1140x768@2x-80-min.jpg)](loom)
 
 ### Links
 
-- Solution URL: [ GitHub Solution](GitHub )
-- Live Site URL: [ Website](Deployed website)
+- Solution URL: Menu Slider and Modal GitHub Solution
+- Live Site URL: Menu Slider and Modal Website
 
 ## My process
 
@@ -40,12 +34,10 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - VanillaJS
-- Asynchronous JavaScript
-- API Request
 - CSS custom properties
 - CSS Flexbox properties
 - CSS Grid properties
-- Media Queries
+- CSS Keyframes
 
 ## Author
 
