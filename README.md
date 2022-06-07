@@ -26,7 +26,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Menu Slider and Modal GitHub Solution](https://github.com/MaryAngelique/menu-slider-and-modal)
-- Live Site URL: Menu Slider and Modal Website
+- Live Site URL: [Menu Slider and Modal Website](https://menu-slider-and-modal.vercel.app/)
 
 ## My process
 
