@@ -21,9 +21,9 @@ body.show-nav {
 }
 
 nav {
-    background-color: var(--primary-color);
+    background-color: var(--secondary-color);
     border-right: 2px solid rgba(200, 200, 200, 0.1);
-    color: #fff;
+    color: #000;
     position: fixed;
     top: 0;
     left: 0;
@@ -60,8 +60,9 @@ nav ul li:first-of-type {
 }
 
 nav ul li a {
-    color: #fff;
+    color: #000;
     text-decoration: none;
+    border-bottom: 3px solid var(--primary-color);
 }
 
 nav ul li a:hover {
@@ -176,3 +177,21 @@ button:focus {
     padding: 8px;
     width: 100%;
 }
+
+.close-btn {
+    background: transparent;
+    font-size: 25px;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+@keyframes modalopen {
+    from {
+      opacity: 0;
+    }
+  
+    to {
+      opacity: 1;
+    }
+  }
