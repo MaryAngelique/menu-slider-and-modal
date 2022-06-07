@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: Menu Slider and Modal GitHub Solution
+- Solution URL: [Menu Slider and Modal GitHub Solution](https://github.com/MaryAngelique/menu-slider-and-modal)
 - Live Site URL: Menu Slider and Modal Website
 
 ## My process
