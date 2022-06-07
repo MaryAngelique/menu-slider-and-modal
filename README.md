@@ -16,11 +16,11 @@
 
 Users should be able to:
 
-#### - 
+#### - Open and close nav bar
 
-#### - 
+#### - Click on Sign up button and fill out the form that contains the following inputs: Name, Email, Password, and Confirm Password
 
-#### - 
+#### - Submit the sign up form
 
 
 ### Links
@@ -38,6 +38,7 @@ Users should be able to:
 - CSS Flexbox properties
 - CSS Grid properties
 - CSS Keyframes
+- Media Queries
 
 ## Author
 
